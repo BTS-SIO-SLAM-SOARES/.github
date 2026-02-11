@@ -1,4 +1,5 @@
-# Salut, moi c'est Daniels 👋
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Salut, moi c'est Daniels 👋 !
+=============================================================================================================================  
 
 Diplômé **BTS SIO option SLAM** (Solutions Logicielles et Applications Métiers) — 2023/2025.
 Formé au **développement logiciel** et à la **conception d'applications**, du web au desktop.
